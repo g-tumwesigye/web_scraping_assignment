@@ -45,6 +45,13 @@ The weather trends are visualized using line plots and bar plots. The following 
 
 The visualizations show the trends in temperature, humidity, wind speed, and cloudiness over time for different cities. The temperature trend plot shows how the temperature varies across cities, while the humidity trend plot shows the changes in humidity. The wind speed distribution plot provides insights into city wind conditions. The cloudiness plot shows the cloud cover across different cities.
 
+## Peer Learning Group 11 Members
+1. Geofrey Tumwesigye
+2. Justice Izuchukwu Chukwuonye
+3. Willy Kalisa
+4. Geu Aguto Garang Bior
+5. Sabir walid Abdurahman
+
 ## Conclusion
 
 This project demonstrates how to fetch weather data from an API for multiple cities, store it in a CSV file, and visualize the trends using Python. The analysis provides insights into the weather patterns for the specified cities.
