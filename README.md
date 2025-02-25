@@ -27,11 +27,11 @@ The weather trends are visualized using line plots and bar plots. The following 
 
 ### Temperature Trend
 
-![Temperature Trend](temperature_trend.png)
+![Temperature Trend](temperature_comparison.png)
 
 ### Humidity Trend
 
-![Humidity Trend](humidity_trend.png)
+![Humidity Trend](humidity_levels.png)
 
 ### Wind Speed Distribution
 
