@@ -43,7 +43,7 @@ The weather trends are visualized using line plots and bar plots. The following 
 
 ## Analysis
 
-The visualizations show the trends in temperature, humidity, wind speed, and cloudiness over time for different cities. The temperature trend plot shows how the temperature varies across cities, while the humidity trend plot shows the changes in humidity. The wind speed distribution plot provides insights into the wind conditions across the cities. The cloudiness plot shows the cloud cover across different cities.
+The visualizations show the trends in temperature, humidity, wind speed, and cloudiness over time for different cities. The temperature trend plot shows how the temperature varies across cities, while the humidity trend plot shows the changes in humidity. The wind speed distribution plot provides insights into city wind conditions. The cloudiness plot shows the cloud cover across different cities.
 
 ## Conclusion
 
